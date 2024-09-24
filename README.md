@@ -33,7 +33,7 @@ Rob the mentioned user.
 Start a heist.
 !lottery
 Starts a lottery (Admin Only)
-# 2. Support Commands
+# Support Commands
 !help
 Shows support.
 !info
