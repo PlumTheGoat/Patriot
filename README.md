@@ -6,8 +6,7 @@ To install this bot into your Discord server click this link:
 https://discord.com/oauth2/authorize?client_id=1287684058821955647&permissions=8&integration_type=0&scope=bot
 Follow the instruction that Discord gives you, select the server you want the bot to be in, and your done installing the bot.
 ---------------------------------
-# Introduction
-# 1. Economy Commands:
+# Introduction, Commands
 !bal
 Check your balance (including bank balance)
 !deposit 
